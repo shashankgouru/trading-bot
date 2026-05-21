@@ -1,0 +1,8 @@
+# Binance API client
+python-binance==1.0.19
+
+# CLI framework
+typer[all]==0.9.0
+
+# Environment variable management
+python-dotenv==1.0.0

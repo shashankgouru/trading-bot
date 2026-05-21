@@ -1,0 +1,5 @@
+# Run one MARKET order
+python cli.py --symbol BTCUSDT --side BUY --order-type MARKET --quantity 0.001
+
+# Run one LIMIT order  
+python cli.py --symbol BTCUSDT --side SELL --order-type LIMIT --quantity 0.001 --price 74000.0
